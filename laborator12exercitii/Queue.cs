@@ -64,7 +64,7 @@ namespace laborator12exercitii
 
         public void Afisare()
         {
-            for (var i = 0; i < Count; i++)
+            for (var i = 0; i < Count; i++) 
             {
                 Console.WriteLine(elements[i]);
             }
