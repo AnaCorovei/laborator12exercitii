@@ -43,6 +43,16 @@ namespace laborator12exercitii
 
             Console.WriteLine("Dequed: " + result);
 
+            /*
+             suma numerelor pare de la 1 pana la n.
+            1. Testam cazul general
+            2. Testam situatii exceptionale
+            */
+
+            //Console.WriteLine(CalculatorAvansat.Suma1N(5));
+            //Console.WriteLine(CalculatorAvansat.Suma1N(1));
+            //Console.WriteLine(CalculatorAvansat.Suma1N(-30));
+
         }
     }
 }
